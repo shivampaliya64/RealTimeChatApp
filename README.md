@@ -7,4 +7,4 @@ In order to use this simple go to client directory and server directories via te
 you can look how it looks and works at link below,
 for checking you have to open the link in two seprate tabs and eventually you can see it functioning like a chatroom :)
 
-https://app.netlify.com/authorize?response_type=ticket&ticket=0d748de3224409ba1a257eda678f2747
+https://602a9c50c7acf6326f21f8c0--gracious-varahamihira-f6e63d.netlify.app/
